@@ -1,9 +1,9 @@
 # Tiktok Streak Bot
 
 ## How to use:
-1. Install the required libraries:
-    a. pip install playwright
-    b. playwright install chromium
+1. Install the required libraries:  
+a. pip install playwright  
+b. playwright install chromium
 2. Open the sendmessage.py file and fill in target_name with your friend’s display name.
     How to get the display name:  
     a. Directly:
