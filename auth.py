@@ -33,7 +33,8 @@ def first_login():
 
         print("INSTRUCTION")
         print("Please login manually to your tiktok")
-        print("Finish the captcha if exist")
+        print("Reload the page if the captcha is exist")
+        print("Use QR Code login to avoid captcha")
         print("Wait until you're in")
         print("Dont close your browser")
         print("Go back here and press enter")
